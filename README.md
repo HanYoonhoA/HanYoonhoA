@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HanYoonhoA
 - 👀 I’m interested in Coding, video games, Jets
-- 🌱 I’m currently learning javascript, HTML, C#
+- 🌱 I’m currently learning javascript, HTML, C#, Python
 - 📫 How to reach me email me r.briones@myyahoo.com
 
 <!---
